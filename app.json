@@ -15,7 +15,10 @@
         }
       ]
     ],
-    "name": "rent-app-study-case",
-    "slug": "rent-app-study-case"
+    "name": "RentApp",
+    "slug": "rent-app-study-case",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.rent-app-study-case"
+    }
   }
 }
